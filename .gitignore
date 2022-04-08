@@ -1,0 +1,4 @@
+/venv
+/live_gtfs
+/cached_gtfs
+current_status.csv
