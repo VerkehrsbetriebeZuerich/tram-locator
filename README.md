@@ -1,4 +1,9 @@
 # Tram Locator
+## About
+Script to locate all running trams within the VBZ network. The trams locations is based on static timetable and 
+dynamic timetable updates (live delays) accessed via [opentransportdata.swiss API](https://opentransportdata.swiss). 
+A CSV file with all currently running trams and their corresponding location, destination and delay information is 
+written as an output file.   
 
 ## Installation
 
